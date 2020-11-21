@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>window</class>
+ <widget class="QDialog" name="window">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>500</width>
+    <height>500</height>
+   </rect>
+  </property>
+  <property name="cursor">
+   <cursorShape>ArrowCursor</cursorShape>
+  </property>
+  <property name="windowTitle">
+   <string>4Ulya</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../../../../dizel/dev/Python/love/photo_2020-10-31_03-11-50.png</normaloff>../../../../dizel/dev/Python/love/photo_2020-10-31_03-11-50.png</iconset>
+  </property>
+  <widget class="QPushButton" name="button">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>410</y>
+     <width>431</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="toolTip">
+    <string>Ульяночка</string>
+   </property>
+   <property name="statusTip">
+    <string/>
+   </property>
+   <property name="text">
+    <string>Моя любовь</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
